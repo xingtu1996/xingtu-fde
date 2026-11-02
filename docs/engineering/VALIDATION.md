@@ -35,3 +35,7 @@
 - 两路子任务产物/回执已核销于 MAINLINE_LEDGER.md；Lead 实际读回并重新执行链接、JSON、隐私与差异检查。
 
 本轮 GitHub 最终回执见 [XSA 交接](../handoffs/XSA_HANDOFF.md)。
+
+## 推送后并发复核
+
+发现另一条 import 分支，初始检查后新增；按对象 SHA 与种子18文件比对，15同、3个状态说明变更。未覆盖或关闭对方分支，详情见交接。main 复查仍为初始 aeef132002681225032113bbcb77b2a37b12364c；本仓 PR #1 已以 Draft 创建，未合并。
