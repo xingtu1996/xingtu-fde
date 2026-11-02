@@ -26,7 +26,7 @@
 
 ## 最终检查回执
 
-- 27 份 Markdown；48 个相对文件链接、1 个 fragment 锚点检查通过。
+- 27 份 Markdown；49 个相对文件链接、1 个 fragment 锚点检查通过。
 - 67 个唯一 GitHub Markdown 链接目标检查通过：blob/tree 用 16 份远端递归树核对路径和对象类型；repo/PR/commit 用 GitHub API 实际读取。此结果仅证明目标存在，不证明其全部内容正确。
 - registry/snapshot.json 解析通过；七仓 public、12 条来源、显式 anchor、固定 commit 和 blob/tree 区分已读回核对。
 - 三张 Mermaid 图由本机已安装 mmdc 渲染为 SVG 成功，未新增依赖；输出仅作本地验收，不把它们当业务证据。
