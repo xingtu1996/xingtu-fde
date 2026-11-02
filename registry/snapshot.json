@@ -1,0 +1,487 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-02T03:41:51.241959+00:00",
+  "method": "GitHub connector metadata plus read-only gh api metadata/commit/recursive tree/contents",
+  "limits": "Existence and immutable revision verified; business results, installation, runtime compatibility, and original third-party claims not reproduced.",
+  "repositories": [
+    {
+      "repository": "xingtu1996/xingtu-articles",
+      "visibility": "public",
+      "branch": "main",
+      "commit": "a892537f7f52f7b65abd0a47336db7dec74895d6",
+      "files": [
+        {
+          "path": "README.md",
+          "object_type": "blob",
+          "object_sha": "37c8ebc76addb9243452e34308d9a6b67e2f62af",
+          "url": "https://github.com/xingtu1996/xingtu-articles/blob/a892537f7f52f7b65abd0a47336db7dec74895d6/README.md"
+        },
+        {
+          "path": "articles/2026/09",
+          "object_type": "tree",
+          "object_sha": "4ffd37e1ccae8609d7d0bad6973134ecea0c082c",
+          "url": "https://github.com/xingtu1996/xingtu-articles/tree/a892537f7f52f7b65abd0a47336db7dec74895d6/articles/2026/09"
+        },
+        {
+          "path": "articles/2026/10",
+          "object_type": "tree",
+          "object_sha": "4e09c367d3ee5373e0260f9b20627a8111a6487c",
+          "url": "https://github.com/xingtu1996/xingtu-articles/tree/a892537f7f52f7b65abd0a47336db7dec74895d6/articles/2026/10"
+        }
+      ],
+      "verification": "GitHub API metadata and tree; README read; runtime not tested"
+    },
+    {
+      "repository": "xingtu1996/xingtu-ai-engineering",
+      "visibility": "public",
+      "branch": "main",
+      "commit": "7aa579fd497d7026d16cf1515133164b2498d1d9",
+      "files": [
+        {
+          "path": "README.md",
+          "object_type": "blob",
+          "object_sha": "c5d68ec8915fc966ee559e20e22b440cf1abd411",
+          "url": "https://github.com/xingtu1996/xingtu-ai-engineering/blob/7aa579fd497d7026d16cf1515133164b2498d1d9/README.md"
+        },
+        {
+          "path": "engineering",
+          "object_type": "tree",
+          "object_sha": "4604e6154626f50a57a912d03a37e7028d451e50",
+          "url": "https://github.com/xingtu1996/xingtu-ai-engineering/tree/7aa579fd497d7026d16cf1515133164b2498d1d9/engineering"
+        },
+        {
+          "path": "methodology",
+          "object_type": "tree",
+          "object_sha": "14f1a8ae56a4a0f6cd077931dc1558f12b10098a",
+          "url": "https://github.com/xingtu1996/xingtu-ai-engineering/tree/7aa579fd497d7026d16cf1515133164b2498d1d9/methodology"
+        },
+        {
+          "path": "governance",
+          "object_type": "tree",
+          "object_sha": "9a81e2e8036c238c1e3354d2ecb5588aead24909",
+          "url": "https://github.com/xingtu1996/xingtu-ai-engineering/tree/7aa579fd497d7026d16cf1515133164b2498d1d9/governance"
+        },
+        {
+          "path": "marketplace.json",
+          "object_type": "blob",
+          "object_sha": "d6ac76e8527990c13a939f5399a522c115adb624",
+          "url": "https://github.com/xingtu1996/xingtu-ai-engineering/blob/7aa579fd497d7026d16cf1515133164b2498d1d9/marketplace.json"
+        },
+        {
+          "path": "methodology/quality-gate-template.md",
+          "object_type": "blob",
+          "object_sha": "cc6303125c6524b6f8a8bb1af9e50aafc1ac8ef3",
+          "url": "https://github.com/xingtu1996/xingtu-ai-engineering/blob/7aa579fd497d7026d16cf1515133164b2498d1d9/methodology/quality-gate-template.md"
+        },
+        {
+          "path": "methodology/project-closure-template.md",
+          "object_type": "blob",
+          "object_sha": "ae98019a731f0548107be6bc7db12a97567335a0",
+          "url": "https://github.com/xingtu1996/xingtu-ai-engineering/blob/7aa579fd497d7026d16cf1515133164b2498d1d9/methodology/project-closure-template.md"
+        },
+        {
+          "path": "methodology/delivery-review-template.md",
+          "object_type": "blob",
+          "object_sha": "aea7465d071274c103f4e554eacf4c500d990319",
+          "url": "https://github.com/xingtu1996/xingtu-ai-engineering/blob/7aa579fd497d7026d16cf1515133164b2498d1d9/methodology/delivery-review-template.md"
+        }
+      ],
+      "verification": "GitHub API metadata and tree; README read; runtime not tested"
+    },
+    {
+      "repository": "xingtu1996/xingtu-skills",
+      "visibility": "public",
+      "branch": "main",
+      "commit": "13b2c7c43adbe4d7043b8e9d1e5822c88cb822f3",
+      "files": [
+        {
+          "path": "README.md",
+          "object_type": "blob",
+          "object_sha": "af7c48b93cb8f17da855ea47a3b9cf14fe0550bb",
+          "url": "https://github.com/xingtu1996/xingtu-skills/blob/13b2c7c43adbe4d7043b8e9d1e5822c88cb822f3/README.md"
+        },
+        {
+          "path": "skills",
+          "object_type": "tree",
+          "object_sha": "1c8449f6e1ed8e96c10d74df7a5eb69ba5fe4882",
+          "url": "https://github.com/xingtu1996/xingtu-skills/tree/13b2c7c43adbe4d7043b8e9d1e5822c88cb822f3/skills"
+        },
+        {
+          "path": "marketplace.json",
+          "object_type": "blob",
+          "object_sha": "d7094d950bf38f773555dc8dfa6ab6833f4e3e81",
+          "url": "https://github.com/xingtu1996/xingtu-skills/blob/13b2c7c43adbe4d7043b8e9d1e5822c88cb822f3/marketplace.json"
+        },
+        {
+          "path": "skills/adversarial-review/SKILL.md",
+          "object_type": "blob",
+          "object_sha": "38c8fe58d37dc90afcfd61ab84339d638626d035",
+          "url": "https://github.com/xingtu1996/xingtu-skills/blob/13b2c7c43adbe4d7043b8e9d1e5822c88cb822f3/skills/adversarial-review/SKILL.md"
+        },
+        {
+          "path": "skills/fact-check-gate/SKILL.md",
+          "object_type": "blob",
+          "object_sha": "5e8151b6247eed1001e75003efdcb503fd686f29",
+          "url": "https://github.com/xingtu1996/xingtu-skills/blob/13b2c7c43adbe4d7043b8e9d1e5822c88cb822f3/skills/fact-check-gate/SKILL.md"
+        },
+        {
+          "path": "skills/spec-driven-adversarial-workflow/SKILL.md",
+          "object_type": "blob",
+          "object_sha": "267cb3468d4af5670ec96e90c9d402de571395de",
+          "url": "https://github.com/xingtu1996/xingtu-skills/blob/13b2c7c43adbe4d7043b8e9d1e5822c88cb822f3/skills/spec-driven-adversarial-workflow/SKILL.md"
+        }
+      ],
+      "verification": "GitHub API metadata and tree; README read; runtime not tested"
+    },
+    {
+      "repository": "xingtu1996/xingtu-harness",
+      "visibility": "public",
+      "branch": "main",
+      "commit": "507347259fc20f5b32c0e8f57578262dff2d9db6",
+      "files": [
+        {
+          "path": "README.md",
+          "object_type": "blob",
+          "object_sha": "cabd9dbdf677cd30509115b3f914d8cc59bb9993",
+          "url": "https://github.com/xingtu1996/xingtu-harness/blob/507347259fc20f5b32c0e8f57578262dff2d9db6/README.md"
+        },
+        {
+          "path": "install.sh",
+          "object_type": "blob",
+          "object_sha": "e69737be235cd76c418515a513f315fd308ab0da",
+          "url": "https://github.com/xingtu1996/xingtu-harness/blob/507347259fc20f5b32c0e8f57578262dff2d9db6/install.sh"
+        },
+        {
+          "path": "docs",
+          "object_type": "tree",
+          "object_sha": "d02eaeeef207943fa8fc1286ec7ced6dc9cd950e",
+          "url": "https://github.com/xingtu1996/xingtu-harness/tree/507347259fc20f5b32c0e8f57578262dff2d9db6/docs"
+        }
+      ],
+      "verification": "GitHub API metadata and tree; README read; runtime not tested"
+    },
+    {
+      "repository": "xingtu1996/xingtu-sdd",
+      "visibility": "public",
+      "branch": "main",
+      "commit": "b710c4912f428ce7fa4035e2ebd0bef76da661f4",
+      "files": [
+        {
+          "path": "README.md",
+          "object_type": "blob",
+          "object_sha": "63a25fd963d1857c072d474786cefdc95b243f02",
+          "url": "https://github.com/xingtu1996/xingtu-sdd/blob/b710c4912f428ce7fa4035e2ebd0bef76da661f4/README.md"
+        },
+        {
+          "path": "specs-engine",
+          "object_type": "tree",
+          "object_sha": "b716269c4e8f45099b584567a27b26a06162ece5",
+          "url": "https://github.com/xingtu1996/xingtu-sdd/tree/b710c4912f428ce7fa4035e2ebd0bef76da661f4/specs-engine"
+        },
+        {
+          "path": "case-studies",
+          "object_type": "tree",
+          "object_sha": "b8fbf8804505a72f52566ece65ce1e694fce764b",
+          "url": "https://github.com/xingtu1996/xingtu-sdd/tree/b710c4912f428ce7fa4035e2ebd0bef76da661f4/case-studies"
+        },
+        {
+          "path": "specs",
+          "object_type": "tree",
+          "object_sha": "f95118175e33b7f2eb67d0359a50f0b7bd090fa5",
+          "url": "https://github.com/xingtu1996/xingtu-sdd/tree/b710c4912f428ce7fa4035e2ebd0bef76da661f4/specs"
+        }
+      ],
+      "verification": "GitHub API metadata and tree; README read; runtime not tested"
+    },
+    {
+      "repository": "xingtu1996/xingtu-learn",
+      "visibility": "public",
+      "branch": "main",
+      "commit": "68d5416faeabef0392a3116755485dc7ac1fda95",
+      "files": [
+        {
+          "path": "README.md",
+          "object_type": "blob",
+          "object_sha": "455e16ed0923d62591e7e1c05cff63b41ba5bdc3",
+          "url": "https://github.com/xingtu1996/xingtu-learn/blob/68d5416faeabef0392a3116755485dc7ac1fda95/README.md"
+        },
+        {
+          "path": "10-tech",
+          "object_type": "tree",
+          "object_sha": "74be83ec19d385cd14badf17489cddba125484db",
+          "url": "https://github.com/xingtu1996/xingtu-learn/tree/68d5416faeabef0392a3116755485dc7ac1fda95/10-tech"
+        }
+      ],
+      "verification": "GitHub API metadata and tree; README read; runtime not tested"
+    },
+    {
+      "repository": "xingtu1996/xingtu-super-agent",
+      "visibility": "public",
+      "branch": "main",
+      "commit": "d0bcf54416b8c454c140e1d11efd104a075a5ef4",
+      "files": [
+        {
+          "path": "README.md",
+          "object_type": "blob",
+          "object_sha": "7706d27fc21cb39b5a9a8a3c8332c4334abec044",
+          "url": "https://github.com/xingtu1996/xingtu-super-agent/blob/d0bcf54416b8c454c140e1d11efd104a075a5ef4/README.md"
+        }
+      ],
+      "verification": "GitHub API metadata and tree; README read; runtime not tested"
+    }
+  ],
+  "sources": [
+    {
+      "id": "FDE-SRC-001",
+      "title": "进场、在场、离场",
+      "repository": "xingtu1996/xingtu-articles",
+      "commit": "a892537f7f52f7b65abd0a47336db7dec74895d6",
+      "source_type": "first_party",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "作者方法与经验自述；效果未复测。",
+      "artifact": {
+        "path": "articles/2026/09/2026-09-25-fde-working-method-three-stages.md",
+        "object_type": "blob",
+        "object_sha": "12f6df3a76b52c2cda771cce916f5e898fe0f7a2",
+        "url": "https://github.com/xingtu1996/xingtu-articles/blob/a892537f7f52f7b65abd0a47336db7dec74895d6/articles/2026/09/2026-09-25-fde-working-method-three-stages.md"
+      }
+    },
+    {
+      "id": "FDE-SRC-002",
+      "title": "资金报表改造",
+      "repository": "xingtu1996/xingtu-articles",
+      "commit": "a892537f7f52f7b65abd0a47336db7dec74895d6",
+      "source_type": "third_party",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "第三方案例转述；九天交付与银行账户数量等未独立核实。",
+      "artifact": {
+        "path": "articles/2026/10/2026-10-28-fde-fund-report.md",
+        "object_type": "blob",
+        "object_sha": "e8563a37c6cbfacf8aa1f8678bec9dee038e7b11",
+        "url": "https://github.com/xingtu1996/xingtu-articles/blob/a892537f7f52f7b65abd0a47336db7dec74895d6/articles/2026/10/2026-10-28-fde-fund-report.md"
+      }
+    },
+    {
+      "id": "FDE-SRC-003",
+      "title": "多平台评论数据清洗",
+      "repository": "xingtu1996/xingtu-articles",
+      "commit": "a892537f7f52f7b65abd0a47336db7dec74895d6",
+      "source_type": "third_party",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "第三方从业者案例转述；数据与效果未复测。",
+      "artifact": {
+        "path": "articles/2026/10/2026-10-28-fde-data-cleaning.md",
+        "object_type": "blob",
+        "object_sha": "b1e591f15b4dd7f4bec514ba1c85c473588479b8",
+        "url": "https://github.com/xingtu1996/xingtu-articles/blob/a892537f7f52f7b65abd0a47336db7dec74895d6/articles/2026/10/2026-10-28-fde-data-cleaning.md"
+      }
+    },
+    {
+      "id": "FDE-SRC-004",
+      "title": "四道质量门禁",
+      "repository": "xingtu1996/xingtu-articles",
+      "commit": "a892537f7f52f7b65abd0a47336db7dec74895d6",
+      "source_type": "third_party",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "主体流程及数字转述公开分享，原文§8明示非本人实测；仅§7缩小版为作者个人实践。",
+      "artifact": {
+        "path": "articles/2026/10/2026-10-26-four-quality-gates.md",
+        "object_type": "blob",
+        "object_sha": "cf67d386834d09ab8064246a3075995ec5d109a4",
+        "url": "https://github.com/xingtu1996/xingtu-articles/blob/a892537f7f52f7b65abd0a47336db7dec74895d6/articles/2026/10/2026-10-26-four-quality-gates.md"
+      }
+    },
+    {
+      "id": "FDE-SRC-005",
+      "title": "DSH Superagent README",
+      "repository": "deepseek-ai/dsh-superagent-prototype",
+      "commit": "6337fc823ce20251c8de8085948165c81aaa701e",
+      "source_type": "official",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "官方来源自述；研究原型/开发者预览；未安装或复测。",
+      "artifact": {
+        "path": "README.md",
+        "object_type": "blob",
+        "object_sha": "39e1c4af122f11dd72ac0d2b34b79d6f8ae259ea",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/README.md"
+      }
+    },
+    {
+      "id": "FDE-SRC-006",
+      "title": "DSH Superagent docs 000–008",
+      "repository": "deepseek-ai/dsh-superagent-prototype",
+      "commit": "6337fc823ce20251c8de8085948165c81aaa701e",
+      "source_type": "official",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "官方来源自述；研究原型/开发者预览；未安装或复测。",
+      "artifact": {
+        "path": "docs",
+        "object_type": "tree",
+        "object_sha": "e7247c39739f274e92651df72a00138427e22957",
+        "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/tree/6337fc823ce20251c8de8085948165c81aaa701e/docs"
+      },
+      "documents": [
+        {
+          "path": "docs/000-philosophy.md",
+          "object_type": "blob",
+          "object_sha": "8422db912fdf93a4c7104ebbb07b834544ff4be8",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/000-philosophy.md"
+        },
+        {
+          "path": "docs/001-domain.md",
+          "object_type": "blob",
+          "object_sha": "fd5300132e85f69ab794bbd3685db2c4fd87a5e0",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/001-domain.md"
+        },
+        {
+          "path": "docs/002-authorization.md",
+          "object_type": "blob",
+          "object_sha": "287e3fedd5f3e92680f8d7c02731dde253190f52",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/002-authorization.md"
+        },
+        {
+          "path": "docs/003-execution.md",
+          "object_type": "blob",
+          "object_sha": "6cb33a88c5d728dd4c9e72cae5f8d5c22fd82d02",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/003-execution.md"
+        },
+        {
+          "path": "docs/004-prompts.md",
+          "object_type": "blob",
+          "object_sha": "d53639ada090e5a6a79520d3c185b871f6c79a47",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/004-prompts.md"
+        },
+        {
+          "path": "docs/005-panel.md",
+          "object_type": "blob",
+          "object_sha": "cffcac86e265cb17e06c0580808cb33827a77597",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/005-panel.md"
+        },
+        {
+          "path": "docs/006-deployment.md",
+          "object_type": "blob",
+          "object_sha": "d4e810f4c5deae1ed879a091d685702cee59cbd1",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/006-deployment.md"
+        },
+        {
+          "path": "docs/007-architecture.md",
+          "object_type": "blob",
+          "object_sha": "184ea543da47267f3f81285e38fb5355dcc3bcdd",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/007-architecture.md"
+        },
+        {
+          "path": "docs/008-cookbook.md",
+          "object_type": "blob",
+          "object_sha": "22c279a47384d5eae85768861ad0b11f551f26f6",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/6337fc823ce20251c8de8085948165c81aaa701e/docs/008-cookbook.md"
+        }
+      ]
+    },
+    {
+      "id": "FDE-SRC-007",
+      "title": "DeepSeek Harness README",
+      "repository": "deepseek-ai/deepseek-harness",
+      "commit": "ce7073d51254c26cd63b22a60835b8f948deb447",
+      "source_type": "official",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "官方来源自述；研究原型/开发者预览；未安装或复测。",
+      "artifact": {
+        "path": "README.md",
+        "object_type": "blob",
+        "object_sha": "7941e30f7bdca9391befe39b9115d211157fa42d",
+        "url": "https://github.com/deepseek-ai/deepseek-harness/blob/ce7073d51254c26cd63b22a60835b8f948deb447/README.md"
+      }
+    },
+    {
+      "id": "FDE-SRC-008",
+      "title": "XSA FDE 产品设计研究",
+      "repository": "xingtu1996/xingtu-super-agent",
+      "commit": "9ac07724bd312ce1be5ef4b8c1f2e45a313c8f0d",
+      "source_type": "first_party",
+      "claim_status": "hypothesis",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "固定设计修订版，非部署成果。",
+      "artifact": {
+        "path": "docs/research/FDE_PRODUCT_BLUEPRINT.md",
+        "object_type": "blob",
+        "object_sha": "d05072ee1f7ddf5250ac34fb3f0e2b0a8be9a49f",
+        "url": "https://github.com/xingtu1996/xingtu-super-agent/blob/9ac07724bd312ce1be5ef4b8c1f2e45a313c8f0d/docs/research/FDE_PRODUCT_BLUEPRINT.md"
+      },
+      "maturity": "design"
+    },
+    {
+      "id": "FDE-SRC-009",
+      "title": "Event Bridge 离线实验",
+      "repository": "xingtu1996/xingtu-harness",
+      "commit": "7e3d12b04bab9032dbc0530bd4c20a698a06ff56",
+      "source_type": "first_party",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "路径已核实；未执行测试。",
+      "artifact": {
+        "path": "experiments/event-bridge-v0.1/PRODUCT_README.md",
+        "object_type": "blob",
+        "object_sha": "dc5bda8cf4119bcc932814ba49c5f7ae9131bcc3",
+        "url": "https://github.com/xingtu1996/xingtu-harness/blob/7e3d12b04bab9032dbc0530bd4c20a698a06ff56/experiments/event-bridge-v0.1/PRODUCT_README.md"
+      },
+      "maturity": "prototype"
+    },
+    {
+      "id": "FDE-SRC-010",
+      "title": "FDE 学习卡",
+      "repository": "xingtu1996/xingtu-learn",
+      "commit": "c13dc92b1ea3af83f75e84de014623282f650dbb",
+      "source_type": "first_party",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "学习记录存在；未作为业务效果证据。",
+      "artifact": {
+        "path": "10-tech/xsa-super-agent/2026-11-02-dsh-superagent-fde-knowledge-commons.md",
+        "object_type": "blob",
+        "object_sha": "16c53ec4268cb992237969511344edd2e2a873ae",
+        "url": "https://github.com/xingtu1996/xingtu-learn/blob/c13dc92b1ea3af83f75e84de014623282f650dbb/10-tech/xsa-super-agent/2026-11-02-dsh-superagent-fde-knowledge-commons.md"
+      },
+      "maturity": "research"
+    },
+    {
+      "id": "FDE-SRC-011",
+      "title": "项目范围失控与护栏",
+      "repository": "xingtu1996/xingtu-articles",
+      "commit": "a892537f7f52f7b65abd0a47336db7dec74895d6",
+      "source_type": "third_party",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "核心项目及254/172/51%为第三方转述，§4含作者实践；原始分享未获可访问直链，不以此授权无限追加范围。",
+      "artifact": {
+        "path": "articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md",
+        "object_type": "blob",
+        "object_sha": "5a1ad7083581d06a27bd7ad4292414cb2382295f",
+        "url": "https://github.com/xingtu1996/xingtu-articles/blob/a892537f7f52f7b65abd0a47336db7dec74895d6/articles/2026/10/2026-10-21-project-scope-out-of-control-fde.md"
+      }
+    },
+    {
+      "id": "FDE-SRC-012",
+      "title": "XSA PR3 来源包",
+      "repository": "xingtu1996/xingtu-super-agent",
+      "commit": "59aa30daee3522f192ea9d55e093148ccc6f8ba1",
+      "source_type": "first_party",
+      "claim_status": "source_claim",
+      "verification": "L1: source read or path checked; business claims not independently reproduced",
+      "note": "固定迁移来源；不代表所有包内声明已核实。",
+      "artifact": {
+        "path": "incubation/xingtu-fde/README.md",
+        "object_type": "blob",
+        "object_sha": "760e8b17b483ef3e4bdd9ae15d451fe5f683eaaa",
+        "url": "https://github.com/xingtu1996/xingtu-super-agent/blob/59aa30daee3522f192ea9d55e093148ccc6f8ba1/incubation/xingtu-fde/README.md"
+      },
+      "maturity": "incubation"
+    }
+  ]
+}
