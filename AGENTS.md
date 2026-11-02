@@ -15,3 +15,7 @@
 首轮架构与跨仓建设推荐 GPT-6.1 Sol / High；研究和质量审查 Sol / Medium；工程实现 Terra / Medium，复杂时 Sol / High。复杂架构争议可建议 Astra / Medium。名称与推理档位只是建议，不能改变 Work 实际选择。不得擅改全局 config.toml 或造模型 ID。
 
 执行前核对 [完整路由](docs/engineering/MODEL_ROUTING.md)；重要任务记 [审计字段](docs/engineering/TASK_AUDIT.md)。独立子任务先登记 MAINLINE_LEDGER.md，明确文件所有权，未知用量写 unknown。
+
+## Chat / Work / GitHub
+
+按 [协作约定](docs/engineering/COLLABORATION.md) 执行：Chat 定范围和裁决，Work 按授权实施与验证，GitHub Issue/PR 保存任务状态和成果。重要任务用 [任务卡](templates/WORK_TASK.md)，明确负责人、分支、文件范围与验收；推送前刷新并发状态。命名不自动绑定仓库或模型；建议不等于批准，未验收不记 accepted。

@@ -56,3 +56,5 @@ flowchart TB
 [模型与 Agent 路由](docs/engineering/MODEL_ROUTING.md) · [任务审计](docs/engineering/TASK_AUDIT.md) · [本轮验收](docs/engineering/VALIDATION.md) · [XSA 交接](docs/handoffs/XSA_HANDOFF.md) · [本人实践复盘](practice/2026-11-02-XF-BOOTSTRAP.md) · [实践复盘模板](templates/RETROSPECTIVE.md)。
 
 无需安装依赖：直接阅读知识卡、对照案例的证据空白，再复制模板记录自己的试验。第三方原始文章保留在来源仓。
+
+协作入口：[Chat / Work / GitHub 约定](docs/engineering/COLLABORATION.md) · [Work 任务卡](templates/WORK_TASK.md)。当前协作约定任务见 [Issue #3](https://github.com/xingtu1996/xingtu-fde/issues/3)，实现与验收见 Draft PR #1。

@@ -39,3 +39,14 @@
 ## 推送后并发复核
 
 发现另一条 import 分支，初始检查后新增；按对象 SHA 与种子18文件比对，15同、3个状态说明变更。未覆盖或关闭对方分支，详情见交接。main 复查仍为初始 aeef132002681225032113bbcb77b2a37b12364c；本仓 PR #1 已以 Draft 创建，未合并。
+
+## XF-WORK-002｜协作约定接续验收
+
+实际运行主模型 gpt-6.1-sol / high 已核对，本轮单代理，完整官方用量 unknown。只增加文档约定与任务模板，不新增执行代码或自动化。
+
+- 新增 COLLABORATION.md 与 WORK_TASK.md；更新 AGENTS、README、PR模板、审计与交接。用户附件用于理解工作模式，原始聊天与截图未公开。
+- 最新全部29份Markdown：60个相对文件链接、1个fragment、69个GitHub目标检查通过（包括Issue #3与新出现的PR #2）；snapshot JSON可解析。
+- 本仓30个文档/JSON文件定向隐私扫描通过；git diff --check通过。未改动三张Mermaid，无新图，本轮不重复渲染。
+- 人工一致性核对：任务卡覆盖身份、裁决依据、权限、负责人、文件归属、实际模型、验收、回退和回执；状态约定明确区分 review_pending 与 accepted。
+- 并发刷新：另一迁移分支head未变，现有Draft PR #2；本分支远端在提交前仍为a749488c6a8b173d97b9281b613d8984882468df，与本地基线一致。
+- 任务登记：Issue #3；交付：Draft PR #1；状态为review_pending，等待人工审阅。没有自动跨聊天发送、租约锁、模型路由或GitHub状态同步能力。

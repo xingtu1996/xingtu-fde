@@ -37,3 +37,14 @@
 - usage_if_available: unknown
 
 回滚：未合并阶段关闭或更新本仓 Draft PR；不自动删除分支或仓库，不改 XSA 暂存 PR，不 force push。已合并变更须另提回退 PR。
+
+## XF-WORK-002｜协作约定
+
+- project / branch: XingTu FDE / feat/xf-foundation-20261102
+- selected_model / reasoning_effort: gpt-6.1-sol / high（当前聊天运行记录）；未切换配置
+- agent_role: Lead；本轮单代理，不新增子任务
+- status: 实施回执以 [Issue #3](https://github.com/xingtu1996/xingtu-fde/issues/3) 为准；合并和验收待审
+- tools: GitHub connector、gh/git、本地文件与Python检查、Codex聊天只读查询
+- evidence: COLLABORATION.md、WORK_TASK.md、Issue #3、Draft PR #1；验证见 VALIDATION.md
+- quality: 仅文档协作约定；未实现自动绑定、锁、模型路由或状态同步
+- usage_if_available: unknown
