@@ -43,8 +43,10 @@ def validate():
         if not identifier or identifier in ids:
             errors.append(f"duplicate/missing source id: {identifier}")
         ids.add(identifier)
-        if source.get("repository") not in names:
-            errors.append(f"source {identifier} has unknown repository")
+        repository = source.get("repository")
+        if not isinstance(repository, str) or not re.fullmatch(r"[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+", repository):
+            errors.append(f"source {identifier} has invalid owner/repo identifier")
+        # External upstreams and commits newer than the registry snapshot are valid.
         commit = source.get("commit")
         if not isinstance(commit, str) or not SHA.fullmatch(commit):
             errors.append(f"source {identifier} lacks pinned commit")
