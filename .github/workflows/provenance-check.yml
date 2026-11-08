@@ -1,0 +1,29 @@
+name: FDE provenance checks
+
+on:
+  pull_request:
+    paths:
+      - 'registry/snapshot.json'
+      - 'tools/validate_snapshot.py'
+      - '.github/workflows/provenance-check.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'registry/snapshot.json'
+      - 'tools/validate_snapshot.py'
+      - '.github/workflows/provenance-check.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  provenance:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Validate pinned source snapshot
+        run: python tools/validate_snapshot.py
